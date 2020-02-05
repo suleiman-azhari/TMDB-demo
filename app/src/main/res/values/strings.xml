@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TMDb</string>
+    <string name="movie_summary">All unemployed, Ki-taek\'s family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.</string>
+    <string name="item_movie_popularity_text">Popularity:</string>
+    <string name="item_movie_title_text">Title:</string>
+    <string name="fragment_detail_genre_title">Genre:</string>
+    <string name="fragment_detail_lang_title">Language:</string>
+    <string name="fragment_detail_duration_title">Duration:</string>
+    <string name="fragment_detail_minutes_title">minutes</string>
+    <string name="fragment_detail_book_btn_txt">Book</string>
+</resources>
